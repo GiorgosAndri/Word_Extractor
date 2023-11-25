@@ -1,7 +1,7 @@
 # Word Extractor
 
 #### Video demo: <https://www.youtube.com/watch?v=mYQbHi4-GkA>
-#### Description: Aprogram that extracts words and other various elements from a given text file.
+#### Description: A program that extracts words and other various elements from a given text file.
 
 ## Overview
 #### This is mu final project of CS50P. Word Extractor is a program that extracts various elements from a given text file. It supports plain text, PDF, and Word document formats. The primary features include extracting individual words, special words or features chosen by the user, special characters, and URLs. The extracted data are processed and exported to an Excel file.
